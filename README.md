@@ -3,7 +3,7 @@
 - 🔭 Eu sou iniciante no mundo da programação, ainda não entrei no mercado de trabalho mas espero conseguir entrar em breve. 
 - 🌱 Sou estudante de ADS no IFRN.
 - ▪️ Tenho foco em Web Design.
-- ▪️ Tenho um conhecimento básico em HTML, CSS, C++
+- ▪️ Tenho um conhecimento básico em HTML, CSS, C++, Bootstrap e Scrum.
 - ▪️ Estou aprimorando meus conhecimentos em Javascript e as bibliotecas necessárias.
 - 🦅 Espero conseguir colaborar em alguma empresa e dar meu melhor.
 

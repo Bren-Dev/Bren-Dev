@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Brenda 👋🏻😅
 
-- 🔭 Eu sou iniciante no mundo da p-rogramação, ainda não entrei no mercado de trabalho mas espero conseguir entrar em breve. 
+- 🔭 Eu sou iniciante no mundo da programação, ainda não entrei no mercado de trabalho mas espero conseguir entrar em breve. 
 - 🌱 Sou estudante de ADS no IFRN.
 - ▪️ Tenho foco em Web Design.
 - ▪️ Tenho um conhecimento básico em HTML, CSS, C++

@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá! Eu sou a Brenda Nogueira 👋🏻😅
+
+
+
 
 <!--
 **Bren-Dev/Bren-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

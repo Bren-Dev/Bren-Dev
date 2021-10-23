@@ -5,7 +5,7 @@
 - ▪️ Tenho foco em Web Design.
 - ▪️ Tenho um conhecimento básico em HTML, CSS, C++, Bootstrap e Scrum.
 - ▪️ Estou aprimorando meus conhecimentos em Javascript e as bibliotecas necessárias.
-- 🦅 Espero conseguir colaborar em alguma empresa e dar meu melhor.
+- 🦅 Espero conseguir oferecer sempre o meu melhor.
 
 <!--
 **Bren-Dev/Bren-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

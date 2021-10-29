@@ -1,4 +1,4 @@
-### Olá! Eu sou a Brenda 👋🏻😅
+### Seja bem-vind@ ao meu github
 
 <img src="https://i.pinimg.com/originals/c1/11/18/c111189fe2b4ae01fef5b098efef4ce9.gif">
 

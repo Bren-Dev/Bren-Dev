@@ -5,7 +5,7 @@
 
 <img style="width: 1200px; height: 300px" src="https://i.pinimg.com/originals/c1/11/18/c111189fe2b4ae01fef5b098efef4ce9.gif">
 
-<h1 style="font-family: 'Zen Antique', serif;">  Seja bem-vindo(a) ao meu github </h1>
+###  Seja bem-vindo(a) ao meu github 
 
 - Iniciante no mundo da programação. 
 - Estudante de ADS no IFRN.

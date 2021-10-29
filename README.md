@@ -1,5 +1,7 @@
 ### Olá! Eu sou a Brenda 👋🏻😅
 
+<img src="https://i.pinimg.com/originals/c1/11/18/c111189fe2b4ae01fef5b098efef4ce9.gif">
+
 - 🔭 Eu sou iniciante no mundo da programação, ainda não entrei no mercado de trabalho mas espero conseguir entrar em breve. 
 - 🌱 Sou estudante de ADS no IFRN.
 - ▪️ Tenho foco em Web Design.

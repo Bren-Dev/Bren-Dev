@@ -1,6 +1,6 @@
 <img style="width: 1200px; height: 300px" src="https://i.pinimg.com/originals/c1/11/18/c111189fe2b4ae01fef5b098efef4ce9.gif">
 
-<h1 style="text-align: center;">  Seja bem-vindo(a) ao meu github </h1>
+<h1 style="margin-left: 20px">  Seja bem-vindo(a) ao meu github </h1>
 
 - Iniciante no mundo da programação. 
 - Estudante de ADS no IFRN.

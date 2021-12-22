@@ -6,7 +6,7 @@
 
 - Iniciante no mundo da programação. 
 - Estudante de ADS no IFRN.
-- Foco em Web Design.
+- Foco em Desenvolvimento Web.
 - Conhecimento básico em HTML, CSS, C++, Python, Bootstrap e Scrum.
 - Aprimorando meus conhecimentos em Javascript e as bibliotecas necessárias.
 - Espero conseguir oferecer sempre o meu melhor.

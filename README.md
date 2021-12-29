@@ -23,7 +23,7 @@
 
 <div> 
   <a href = "mailto:brenda_nogueira_pe@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=purple" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brenda-nogueira-2bb14b216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/brenda-nogueira-2bb14b216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=&logo=linkedin&logoColor=black" target="_blank"></a> 
 
 </div>
 <!--

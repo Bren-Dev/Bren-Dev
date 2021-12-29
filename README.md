@@ -14,12 +14,12 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="20px" max-width="300px" width="250px" align="right" alt="Computer">
 
-- Iniciante no mundo da programação. 
-- Estudante de ADS no IFRN.
-- Foco em Desenvolvimento Web.
-- Conhecimento básico em HTML, CSS, C++, Python, Bootstrap e Scrum.
-- Aprimorando meus conhecimentos em Javascript e as bibliotecas necessárias.
-- Espero conseguir oferecer sempre o meu melhor.
+💜 Iniciante no mundo da programação. 
+💜 Estudante de ADS no IFRN.
+💜 Foco em Desenvolvimento Web.
+💜 Conhecimento básico em HTML, CSS, C++, Python, Bootstrap e Scrum.
+💜 Aprimorando meus conhecimentos em Javascript e as bibliotecas necessárias.
+💜 Espero conseguir oferecer sempre o meu melhor.
 
 
 <div align="center"> 

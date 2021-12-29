@@ -19,7 +19,7 @@
 - Aprimorando meus conhecimentos em Javascript e as bibliotecas necessárias.
 - Espero conseguir oferecer sempre o meu melhor.
 
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="20px" max-width="300px" width="250px" align="right" alt="Computer">
 
 <div align="center"> 
   <a href = "mailto:brenda_nogueira_pe@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=9645f4" target="_blank"></a>

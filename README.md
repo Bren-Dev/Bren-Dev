@@ -19,6 +19,13 @@
 - Aprimorando meus conhecimentos em Javascript e as bibliotecas necessárias.
 - Espero conseguir oferecer sempre o meu melhor.
 
+
+
+<div> 
+  <a href = "mailto:brenda_nogueira_pe@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=purple" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/brenda-nogueira-2bb14b216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=purple" target="_blank"></a> 
+
+</div>
 <!--
 **Bren-Dev/Bren-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

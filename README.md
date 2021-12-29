@@ -12,7 +12,6 @@
   </p>
 </a>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="20px" max-width="300px" width="250px" align="right" alt="Computer">
 
 - Iniciante no mundo da programação. 
 - Estudante de ADS no IFRN.

@@ -1,9 +1,6 @@
+![atualization-bots-play-forex](https://user-images.githubusercontent.com/92698949/152698780-628c529e-5c45-4adb-8187-a1e13508bfc0.gif)
 
 <img style="width:1200px; height:200px" src="header.svg" />
-
-
-![atualization-bots-play-forex](https://user-images.githubusercontent.com/92698949/152698762-6500d133-f99b-4f82-9ea1-b1d9f353eebb.gif)
-
 
 <h1 align="center">  Welcome to my repository! </h1>
 

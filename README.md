@@ -2,7 +2,7 @@
 
 <img style="width: 1200px; height: 280px" src="https://i.pinimg.com/originals/c1/11/18/c111189fe2b4ae01fef5b098efef4ce9.gif">
 
-<h1> Welcome! </h1>
+<h1 align="center"> Welcome! </h1>
 
 <a href="https://github.com/Bren-Dev">
   <p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Bren-Dev&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" alt="Brend" /></p>

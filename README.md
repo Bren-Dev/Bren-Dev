@@ -2,6 +2,8 @@
 <img src="header.svg" />
 </p>
 
+<img style="width: 1200px; height: 280px" src="https://i.pinimg.com/originals/c1/11/18/c111189fe2b4ae01fef5b098efef4ce9.gif">
+
 <h1 align="center"> Welcome! </h1>
 
 <a href="https://github.com/Bren-Dev">

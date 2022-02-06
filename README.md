@@ -1,5 +1,5 @@
 
-<img style="width: 1200px; height: 280px" src="https://steamuserimages-a.akamaihd.net/ugc/1005937373242556119/DCA091F0E5821D0833EF7D8F157381A74E05EE4D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img style="width: 1200px; height: 280px" src="">
 
 
 <img style="width:1200px; height:200px" src="header.svg" />

@@ -1,5 +1,5 @@
 
-<img style="width: 1200px; height: 280px" src="">
+<img style="width: 1200px; height: 280px" src="https://mentorforex.org/pt/acessovip/wp-content/uploads/2021/11/atualization-bots-play-forex.gif">
 
 
 <img style="width:1200px; height:200px" src="header.svg" />

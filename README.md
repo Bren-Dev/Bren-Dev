@@ -1,5 +1,5 @@
 
-<img style="width: 1200px; height: 280px" src="header.svg" />
+<img style="width:800px; height:200px" src="header.svg" />
 
 
 <img style="width: 1200px; height: 280px" src="https://i.pinimg.com/originals/c1/11/18/c111189fe2b4ae01fef5b098efef4ce9.gif">

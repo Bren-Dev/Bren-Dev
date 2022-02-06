@@ -1,5 +1,5 @@
-<svg fill="none" width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="200">
+<svg fill="none" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="800px" height="200">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>			
 				@keyframes gradientBackground {
@@ -32,7 +32,7 @@
 					margin: 0;
 					width: 100%;
 					height: 200px;
-					background: linear-gradient(-45deg, #7033B6, #7033B6, #9b6bd6);
+					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
 					background-size: 600% 400%;
 					animation: gradientBackground 10s ease infinite;
 					border-radius: 10px;

@@ -15,16 +15,7 @@
 				}
 			
 				.container {
-					font-family:
-						system-ui,
-						-apple-system,
-						'Segoe UI',
-						Roboto,
-						Helvetica,
-						Arial,
-						sans-serif,
-						'Apple Color Emoji',
-						'Segoe UI Emoji';
+					font-family: Segoe UI, Ubuntu, sans-serif;
 					display: flex;
 					flex-direction: column;
 					align-items: center;

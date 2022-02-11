@@ -1,5 +1,4 @@
-<img style="width:1200px; height:200px" src="![atualization-bots-play-forex](https://user-images.githubusercontent.com/92698949/153533676-1d8a0f60-4782-4a86-a0ca-960987b06564.gif)
-">
+![atualization-bots-play-forex](https://user-images.githubusercontent.com/92698949/153533729-b0bd2c75-7437-4cd3-aee2-ba741a7b4fba.gif)
 
 <img style="width:1200px; height:200px" src="header.svg" />
 

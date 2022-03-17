@@ -1,4 +1,4 @@
-https://alfalfastudio.s3.amazonaws.com/wp-content/uploads/2018/07/03000009/rolly_rocket_by_valenberg-d9y6rvp.gif
+
 
 <img style="width:1200px; height:200px" src="header.svg" />
 

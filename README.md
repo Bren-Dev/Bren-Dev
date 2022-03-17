@@ -1,6 +1,6 @@
 ![atualization-bots-play-forex](https://user-images.githubusercontent.com/92698949/153533729-b0bd2c75-7437-4cd3-aee2-ba741a7b4fba.gif)
 
-<img style="width:1200px; height:200px" src="header.svg" />
+<img style="width:1200px; height:150px" src="header.svg" />
 
 
 

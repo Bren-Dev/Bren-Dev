@@ -7,10 +7,8 @@
     
   
   </p>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Bren-Dev&show_icons=true&theme=midnight-purple](https://github-readme-stats.vercel.app/api?username=Bren-Dev&show_icons=true&theme=midnight-purple" />
-  
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Bren-Dev&show_icons=true&theme=midnight-purple" />
   <p align="center">
-    img
   </p>
 </a>
 

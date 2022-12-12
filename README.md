@@ -7,8 +7,6 @@
     
   
   </p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Bren-Dev&show_icons=true&theme=transparent" />
-
 </a>
 
 

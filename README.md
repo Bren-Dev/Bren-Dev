@@ -7,10 +7,8 @@
     
   
   </p>
-  <p align="center">
     <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Bren-Dev&show_icons=true&theme=midnight-purple" />
-   
-  </p>
+
 </a>
 
 

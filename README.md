@@ -5,8 +5,6 @@
 <a href="https://github.com/Bren-Dev">
   <p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Bren-Dev&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" alt="Brend" /></p>
   <p align="center">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Bren-Dev&show_icons=true&theme=midnight-purple" />
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bren-Dev&theme=midnight-purple&layout=compact" />
   </p>
 </a>
 

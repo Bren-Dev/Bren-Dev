@@ -10,11 +10,6 @@
 </a>
 
 
-- Iniciante no mundo da programação. 
-- Estudante de ADS no IFRN (3° período).
-- Foco em Desenvolvimento Web.
-- Aprimorando meus conhecimentos em Javascript e as bibliotecas necessárias.
-- Espero conseguir oferecer sempre o meu melhor.
 
 
 <div align="center"> 
